@@ -1,0 +1,18 @@
+ID Prodotto,Nome Prodotto,Tipologia,Marca,Prezzo ,Quantità,Data Uscita,Disponibilità
+PROD001,Laptop Ultraportatile,Business,Lenovo,899,25,2023-03-15,Disponibile
+PROD002,Desktop Gaming,Gaming,MSI,1299,10,2023-08-20,Pre-ordine
+PROD003,Monitor Ultra HD,Multimedia,Samsung,499,35,2023-06-10,Disponibile
+PROD004,CPU Intel Core i7,Competenze,Intel,399,18,2023-05-01,Disponibile
+PROD005,SSD NVMe PCIe Gen4,Storage,Western Digital,79,45,2023-02-10,Disponibile
+PROD006,Scheda Video RTX 4080,Gaming,NVIDIA,1199,7,2023-09-15,Pre-ordine
+PROD007,Tastiera Meccanica,Gaming,Corsair,89,20,2023-07-05,Disponibile
+PROD008,Mouse wireless,Gaming,Logitech,49,30,2023-04-12,Disponibile
+PROD009,Cuffie Bluetooth,Multimedia,Sony,79,28,2023-01-05,Disponibile
+PROD010,Tablet Android,Multimedia,Samsung,299,15,2023-03-22,Disponibile
+PROD011,Smartphone Android,Comunicazione,Google,499,22,2023-07-18,Disponibile
+PROD012,Orologio Smartwatch,Wearable,Apple,399,15,2023-09-05,Disponibile
+PROD013,Cuffie Noise Cancelling,Multimedia,Bose,149,28,2023-06-20,Disponibile
+PROD014,Stampante Multifunzione,Ufficio,HP,129,35,2023-05-08,Disponibile
+PROD015,Scanner Fotografico,Multimedia,Canon,99,42,2023-04-15,Disponibile
+PROD016,Webcam HD,Comunicazione,Logitech,49,38,2023-02-22,Disponibile
+PROD017,Power Bank da viaggio,Accessori,Anker,29,50,2023-03-01,Disponibile
